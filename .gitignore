@@ -1,0 +1,5 @@
+venv/
+src/chat/__pycache__/
+src/src/__pycache__/
+src/db.sqlite3
+src/.env
